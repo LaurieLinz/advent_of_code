@@ -1,5 +1,7 @@
 #!usr/bin/env ruby
 
+# kyle's code
+
 class BlocksAway
 
   attr_accessor :coordinates, :direction, :distance
